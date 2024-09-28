@@ -1,0 +1,401 @@
+product_id,product_name,description,list_price
+A1,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A2,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A3,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A4,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A5,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A6,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A7,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A8,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A9,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A10,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A11,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A12,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A13,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A14,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A15,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A16,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A17,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A18,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A19,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A20,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A21,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A22,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A23,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A24,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A25,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A26,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A27,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A28,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A29,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A30,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A31,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A32,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A33,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A34,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A35,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A36,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A37,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A38,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A39,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A40,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A41,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A42,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A43,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A44,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A45,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A46,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A47,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A48,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A49,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A50,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A51,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A52,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A53,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A54,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A55,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A56,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A57,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A58,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A59,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A60,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A61,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A62,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A63,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A64,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A65,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A66,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A67,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A68,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A69,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A70,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A71,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A72,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A73,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A74,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A75,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A76,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A77,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A78,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A79,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A80,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A81,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A82,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A83,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A84,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A85,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A86,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A87,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A88,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A89,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A90,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A91,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A92,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A93,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A94,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A95,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A96,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A97,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A98,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A99,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A100,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A101,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A102,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A103,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A104,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A105,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A106,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A107,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A108,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A109,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A110,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A111,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A112,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A113,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A114,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A115,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A116,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A117,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A118,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A119,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A120,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A121,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A122,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A123,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A124,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A125,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A126,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A127,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A128,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A129,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A130,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A131,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A132,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A133,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A134,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A135,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A136,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A137,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A138,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A139,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A140,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A141,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A142,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A143,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A144,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A145,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A146,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A147,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A148,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A149,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A150,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A151,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A152,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A153,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A154,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A155,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A156,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A157,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A158,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A159,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A160,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A161,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A162,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A163,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A164,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A165,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A166,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A167,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A168,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A169,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A170,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A171,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A172,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A173,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A174,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A175,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A176,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A177,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A178,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A179,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A180,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A181,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A182,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A183,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A184,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A185,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A186,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A187,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A188,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A189,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A190,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A191,การลางานต้องแจ้งล่วงหน้ากี่วัน?,โดยปกติควรแจ้งล่วงหน้าอย่างน้อย 3 วันทำการ,0
+A192,ประกันสังคมครอบคลุมสิทธิ์อะไรบ้าง?,ประกันสังคมครอบคลุมการรักษาพยาบาล การว่างงาน และเงินบำเหน็จบำนาญ,0
+A193,เวลาทำงานมาตรฐานของบริษัทคือกี่ชั่วโมงต่อวัน?,เวลาทำงานมาตรฐานคือ 8 ชั่วโมงต่อวัน,0
+A194,พนักงานใหม่มีช่วงทดลองงานนานเท่าไร?,โดยทั่วไปช่วงทดลองงานมีระยะเวลา 3-6 เดือน,0
+A195,วิธีการยื่นใบลาอย่างไร?,สามารถยื่นใบลาได้ผ่านระบบออนไลน์ของบริษัทหรือแจ้งหัวหน้างาน,0
+A196,วันหยุดนักขัตฤกษ์ในบริษัทนี้มีกี่วันต่อปี?,มีประมาณ 13 วันต่อปี,0
+A197,วิธีการขอเบิกค่าใช้จ่ายอย่างไร?,สามารถยื่นขอเบิกค่าใช้จ่ายได้ผ่านระบบหรือกรอกแบบฟอร์มที่แผนกบัญชี,0
+A198,พนักงานสามารถทำงานจากที่บ้านได้หรือไม่?,บริษัทอนุญาตให้ทำงานจากที่บ้านได้บางส่วนขึ้นอยู่กับนโยบาย,0
+A199,สิทธิ์ลาคลอดบุตรของพนักงานหญิงคือกี่วัน?,พนักงานหญิงมีสิทธิ์ลาคลอดบุตรได้ 90 วัน,0
+A200,การประเมินผลการทำงานมีความถี่กี่ครั้งต่อปี?,บริษัททำการประเมินผลการทำงานปีละ 2 ครั้ง,0
+A201,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A202,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A203,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A204,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A205,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A206,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A207,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A208,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A209,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A210,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A211,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A212,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A213,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A214,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A215,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A216,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A217,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A218,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A219,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A220,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A221,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A222,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A223,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A224,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A225,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A226,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A227,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A228,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A229,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A230,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A231,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A232,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A233,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A234,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A235,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A236,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A237,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A238,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A239,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A240,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A241,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A242,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A243,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A244,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A245,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A246,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A247,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A248,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A249,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A250,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A251,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A252,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A253,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A254,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A255,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A256,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A257,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A258,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A259,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A260,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A261,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A262,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A263,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A264,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A265,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A266,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A267,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A268,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A269,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A270,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A271,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A272,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A273,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A274,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A275,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A276,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A277,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A278,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A279,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A280,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A281,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A282,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A283,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A284,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A285,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A286,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A287,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A288,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A289,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A290,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A291,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A292,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A293,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A294,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A295,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A296,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A297,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A298,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A299,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A300,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A301,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A302,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A303,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A304,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A305,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A306,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A307,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A308,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A309,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A310,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A311,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A312,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A313,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A314,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A315,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A316,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A317,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A318,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A319,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A320,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A321,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A322,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A323,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A324,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A325,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A326,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A327,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A328,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A329,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A330,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A331,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A332,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A333,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A334,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A335,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A336,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A337,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A338,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A339,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A340,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A341,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A342,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A343,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A344,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A345,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A346,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A347,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A348,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A349,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A350,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A351,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A352,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A353,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A354,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A355,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A356,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A357,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A358,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A359,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A360,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A361,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A362,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A363,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A364,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A365,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A366,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A367,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A368,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A369,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A370,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A371,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A372,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A373,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A374,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A375,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A376,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A377,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A378,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A379,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A380,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A381,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A382,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A383,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A384,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A385,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A386,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A387,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A388,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A389,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A390,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
+A391,How many days in advance should I notify for leave?,You should notify at least 3 business days in advance,0
+A392,What benefits are covered by social security?,"Social security covers medical treatment, unemployment, and pension",0
+A393,What is the standard working hour per day?,The standard working hour is 8 hours per day,0
+A394,How long is the probation period for new employees?,The probation period is generally 3-6 months,0
+A395,How can I submit a leave request?,You can submit a leave request through the company's online system or inform your supervisor,0
+A396,How many public holidays does the company offer per year?,There are approximately 13 public holidays per year,0
+A397,How can I claim expenses?,You can claim expenses through the system or by submitting a form to the accounting department,0
+A398,Is working from home allowed?,Working from home is allowed partially depending on the company's policy,0
+A399,What is the maternity leave entitlement for female employees?,Female employees are entitled to 90 days of maternity leave,0
+A400,How often is the performance evaluation conducted?,Performance evaluations are conducted twice a year,0
